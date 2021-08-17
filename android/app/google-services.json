@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018723405220",
+    "project_id": "trabalhodoceria-3d100",
+    "storage_bucket": "trabalhodoceria-3d100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018723405220:android:6095911b2ff026a0ef4531",
+        "android_client_info": {
+          "package_name": "com.example.doceria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018723405220-23fsee3e0100o4m65kogj3fp5vd8lpi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgTcdZmIc3-F0sieGWKfxPPAJBkcYj_-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018723405220-23fsee3e0100o4m65kogj3fp5vd8lpi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
